@@ -1,0 +1,23 @@
+.page-1 li, .page-3 p {
+  font-family: arial;
+  font-size: 16px;
+  color: teal; }
+
+@media (max-width: 600px) {
+  img {
+    display: none; }
+
+  .wiws::after {
+    content: " is what i would say if your screen was bigger"; } }
+.main {
+  text-align: center; }
+
+.page-1 img {
+  margin: 30px; }
+.page-1 li {
+  margin-left: 30px; }
+
+.page-3 p {
+  font-size: 20px; }
+
+/*# sourceMappingURL=style.css.map */
